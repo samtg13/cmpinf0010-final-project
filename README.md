@@ -19,4 +19,5 @@ This dataset includes names, field types, sizes, locations, etc. of parks within
 ---
 
 ## Abstract
-*A TLDR summary of the findings of the project. Answer to the question: What is the best neighborhood? And How did you determine that answer (brief summary of metrics).*
+What does “the best neighborhood in Pittsburgh” mean to us?
+Put simply, we are looking for the neighborhood that we believe best represents the city of Pittsburgh at a cultural level. An important aspect of understanding our metrics is recognizing that we are specifically talking about Pittsburgh neighborhoods. What we deem important for cultural impacts in this project may not (and likely will not) apply when attempting to find the best neighborhoods in Seattle, New York, or even Philadelphia. We are focused on the qualities that make Pittsburgh unique, and whichever neighborhood best represents those qualities will be deemed the best by our standards.
