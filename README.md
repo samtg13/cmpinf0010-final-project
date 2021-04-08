@@ -14,7 +14,7 @@ This dataset includes the names, locations, and types of various artwork through
 This dataset includes the names, locations, and years built for bridges across Pittsburgh.
 
 #### **[Playing Fields](https://data.wprdc.org/dataset/playing-fields)**
-This dataset includes names, field types, sizes, locations, etc. of parks within the city.
+This dataset includes names, locations, and types of playing fields in Pittsburgh.
 
 ---
 
