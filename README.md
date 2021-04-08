@@ -1,7 +1,7 @@
 # Best Neighborhood in Pittsburgh
 ## Team *(name here)*
 - Jacob Kopco, jsk89@pitt.edu
-- *Ben Hrehocik, @pitt.edu*
+- Ben Hrehocik, bth27@pitt.edu
 - Sam Grammer, stg69@pitt.edu
 
 ---
@@ -11,10 +11,10 @@
 This dataset includes the names, locations, and types of various artwork throughout the city of Pittsburgh.
 
 #### **[Bridges Dataset](https://data.wprdc.org/dataset/city-of-pittsburgh-bridges)**
-This dataset the names, locations, and years built for bridges across Pittsburgh.
+This dataset includes the names, locations, and years built for bridges across Pittsburgh.
 
-#### ***Ben's Dataset***
-*Description*
+#### **[Playing Fields](https://data.wprdc.org/dataset/playing-fields)**
+This dataset includes names, field types, sizes, locations, etc. of parks within the city.
 
 ---
 
