@@ -1,5 +1,5 @@
 # Best Neighborhood in Pittsburgh
-## Team *(name here)*
+## Team Six
 - Jacob Kopco, jsk89@pitt.edu
 - Ben Hrehocik, bth27@pitt.edu
 - Sam Grammer, stg69@pitt.edu
